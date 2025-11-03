@@ -1,11 +1,12 @@
 # 📱 Анастасия Маругина | Android Developer
 
 📍 Санкт-Петербург, Россия  
-📩 [marugish@yandex.ru](marugish@yandex.ru)  
-🌐 [Telegram](https://t.me/marugish)  
+📧 [marugish@yandex.ru](marugish@yandex.ru)  
+🌐 [@marugish](https://t.me/marugish)  
 
-## Обо мне
-Android-разработчик с бэкграундом в информационной безопасности и опытом технической поддержки.
+## 👋 Обо мне
+Android-разработчик с бэкграундом в информационной безопасности и опытом технической поддержки. Применение полученных знаний помогает создавать безопасные, отказоустойчивые, эффективные и удобные для пользователей Android-приложения.
+
 
 ## 🎓 Образование
 
@@ -58,15 +59,7 @@ Android-разработчик с бэкграундом в информацио
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-## Опыт работы
-## Контакты
+## 📞 Контакты
 [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marugish@yandex.ru)
 [![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marugish)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marugish)
-
-
----
-🏙💻👩‍💻 📧 📫 👩‍🎓 
-![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
